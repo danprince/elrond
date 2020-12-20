@@ -1,0 +1,13 @@
+{
+  "name": "elrond",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "vite": "^1.0.0-rc.1"
+  }
+}

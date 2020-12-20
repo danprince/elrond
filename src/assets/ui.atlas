@@ -1,0 +1,35 @@
+{ "frames": {
+   "ui.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25",
+  "format": "I8",
+  "size": { "w": 128, "h": 128 },
+  "scale": "1",
+  "slices": [
+   { "name": "icon_pen", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "icon_fill", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 5, "y": 0, "w": 6, "h": 5 } }] },
+   { "name": "icon_hand", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 11, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "icon_select", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 16, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "icon_code", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 21, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "icon_map", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 26, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "icon_note", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 31, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "icon_sprite", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 36, "y": 0, "w": 5, "h": 5 } }] },
+   { "name": "cursor_default", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 5, "w": 6, "h": 8 }, "pivot": {"x": 1, "y": 1 } }] },
+   { "name": "cursor_pointer", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 6, "y": 5, "w": 6, "h": 7 }, "pivot": {"x": 2, "y": 1 } }] },
+   { "name": "cursor_crosshair", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 12, "y": 5, "w": 7, "h": 8 }, "pivot": {"x": 3, "y": 3 } }] },
+   { "name": "cursor_hand_open", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 19, "y": 5, "w": 6, "h": 7 }, "pivot": {"x": 2, "y": 1 } }] },
+   { "name": "cursor_hand_closed", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 25, "y": 5, "w": 6, "h": 7 }, "pivot": {"x": 2, "y": 1 } }] },
+   { "name": "cursor_eyedropper", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 31, "y": 5, "w": 5, "h": 6 }, "pivot": {"x": 0, "y": 4 } }] },
+   { "name": "cursor_select", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 36, "y": 5, "w": 6, "h": 7 }, "pivot": {"x": 2, "y": 3 } }] }
+  ]
+ }
+}
